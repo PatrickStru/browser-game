@@ -1,0 +1,5 @@
+sprite.inputEnabled = true;
+
+        sprite.input.useHandCursor = true;
+
+        sprite.events.onInputDown.add(destroySprite, this);

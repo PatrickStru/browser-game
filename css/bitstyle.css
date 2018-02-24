@@ -1,0 +1,8 @@
+#game-container {
+
+    width:  800px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../assets/player.PNG");
+}
